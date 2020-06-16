@@ -1,0 +1,11 @@
+import painter as p
+p.label("Tool Name")
+p.desc("This tool is used to do so and so this.\nIt is easy fast and cool")
+print("")
+p.head("Sub heading name")
+var=p.ask("say something: ")
+p.scs("Processing message....")
+p.blt("Checking grammer")
+p.wrn("Your message seems to be gramatically wrong!")
+p.say("Your messsage: "+p.bold+p.purple+var)
+p.err("Something went wrong!")
