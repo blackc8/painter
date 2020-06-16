@@ -13,4 +13,4 @@ and that of the bash:
 bash example.sh
 ```
 ## Screenshot
-![Screenshot1](screenshots/example.png =200x40)
+![Screenshot1](screenshots/example.png)
